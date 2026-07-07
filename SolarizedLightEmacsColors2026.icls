@@ -523,6 +523,7 @@
     <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
       <value>
         <option name="BACKGROUND" value="eee8d5" />
+        <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
